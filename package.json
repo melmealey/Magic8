@@ -1,0 +1,11 @@
+{
+  "name": "magic8",
+  "version": "1.0.0",
+  "description": "Can the magic 8 ball answer your question?",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mel",
+  "license": "ISC"
+}
